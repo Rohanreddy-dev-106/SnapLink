@@ -8,11 +8,11 @@ short link is clicked.
 
 ## 📌 Features
 
--   Generate short URLs from long links\
--   Redirect short URLs to their original destination\
--   Track total clicks for each short URL\
--   REST API built using Express.js\
--   MongoDB database for storing URL mappings\
+-   Generate short URLs from long links
+-   Redirect short URLs to their original destination
+-   Track total clicks for each short URL
+-   REST API built using Express.js
+-   MongoDB database for storing URL mappings
 -   Lightweight and fast
 
 ## 🛠 Tech Stack
@@ -20,8 +20,8 @@ short link is clicked.
 -   **Node.js**
 -   **Express.js**
 -   **MongoDB**
--   **Mongoose / MongoDB Native Driver**
--   **NanoID** (or similar) for generating unique short IDs
+-   **MongoDB Native Driver**
+-   **NanoID** for generating unique short IDs
 
 ## 📂 Project Structure
 
