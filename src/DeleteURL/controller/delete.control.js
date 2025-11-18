@@ -1,9 +1,11 @@
-import repo from  "../repo/delete.repo.js"
+/** @format */
+
+import repo from "../repo/delete.repo.js";
 export default class DeleteController {
-   Deletrepo;
+    Deletrepo;
 
     constructor(Name) {
-        this.Deletrepo = new repo(Name); 
+        this.Deletrepo = new repo(Name);
     }
 
     async DeleteUrl(req, res, next) {
