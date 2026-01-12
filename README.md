@@ -1,4 +1,4 @@
-# 🚀 URL Shortener (Backend)
+# 🚀 SnapLink
 
 A backend service built with **Express** and **MongoDB** that converts
 long URLs into short links.\
